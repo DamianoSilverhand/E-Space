@@ -1,0 +1,22 @@
+{
+  "name": "e-space",
+  "version": "1.0.0",
+  "description": "E-learning platform about Space ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamianoSilverhand/E-Space.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamianoSilverhand/E-Space/issues"
+  },
+  "homepage": "https://github.com/DamianoSilverhand/E-Space#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
