@@ -1,3 +1,5 @@
 @import "variable_overrides";   // <-- add this line at the top
 
 @import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+$headings-font-family: "Times New Roman", Times, serif;
